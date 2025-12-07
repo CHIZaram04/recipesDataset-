@@ -2,7 +2,7 @@ name,type,recipe,servings,rating,cookTime
 Spaghetti with Tomato Sauce,main,"pasta, tomato sauce, salt, pepper, oil",2,4.5,20
 Chicken Fried Rice,main,"chicken, rice, egg, soy sauce, oil, peas, corn",3,4.6,25
 Fruit Smoothie,dessert,"banana, strawberry, milk, sugar",1,4.7,5
-Simple Omelette,breakfast,"egg, salt, pepper, oil",1,4.2,7
+Omelette,breakfast,"egg, salt, pepper, oil",1,4.2,7
 Grilled Chicken Salad,main,"chicken, lettuce, tomato, oil, salt, pepper",2,4.3,15
 Chocolate Chip Cookies,dessert,"flour, sugar, chocolate chips, butter, egg",4,4.8,18
 Garlic Butter Shrimp,main,"shrimp, garlic powder, butter, salt, pepper",2,4.7,12
@@ -11,7 +11,6 @@ Chicken Tacos,main,"chicken, tortilla, salt, pepper, paprika",3,4.6,15
 Fruit Salad,dessert,"apple, banana, berries, honey",2,4.3,5
 Buttered Noodles,side,"pasta, butter, salt, pepper, garlic powder",2,3.5,12
 Grilled Cheese Sandwich,main,"bread, cheese, butter",1,4.6,6
-Garlic Butter Tilapia,main,"tilapia, butter, garlic powder, salt, pepper",2,4.5,15
 Chicken Noodle Soup,main,"chicken, pasta, carrots, peas, salt, pepper",3,4.7,25
 Mango Smoothie,dessert,"mango, milk, sugar",1,4.3,5
 Mashed Potatoes,side,"potatoes, butter, salt, pepper, milk",3,3.2,20
@@ -29,7 +28,6 @@ Chicken Stir Fry,main,"chicken, peas, corn, carrots, soy sauce, oil, salt, peppe
 Berry Yogurt Bowl,snack,"yogurt, berries, honey",1,4.2,4
 Baked Chicken Wings,main,"chicken wings, oil, salt, pepper, paprika, garlic powder",3,4.7,35
 Fruit Yogurt Smoothie,dessert,"yogurt, banana, berries, sugar",1,4.3,5
-Fried Egg,breakfast,"egg, salt, pepper, oil",1,5,4
 Chicken Wrap,main,"chicken, tortilla, lettuce, tomato, pepper, oil",1,4.3,10
 Fruit Bowl,dessert,"apple, banana, mango, berries",2,4.5,5
 Shrimp Pasta,main,"pasta, shrimp, butter, garlic powder, salt, pepper",2,5,16
