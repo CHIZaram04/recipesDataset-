@@ -1,4 +1,4 @@
-name,type,recipe,servings,rating,cookTime,directions
+name,type,ingredients,servings,rating,cookTime,directions
 Spaghetti with Tomato Sauce,main,"pasta, tomato sauce, salt, pepper, oil",2,4.5,20,"Boil pasta. Heat sauce with salt, pepper, and oil. Mix pasta with sauce and serve."
 Chicken Fried Rice,main,"chicken, rice, egg, soy sauce, oil, peas, corn",3,4.6,25,"Cook chicken in oil. Scramble eggs. Add rice, peas, corn, and soy sauce. Mix everything and serve."
 Fruit Smoothie,dessert,"banana, strawberry, milk, sugar",1,4.7,5,"Blend banana, strawberries, milk, and sugar until smooth. Serve cold."
@@ -33,3 +33,4 @@ Shrimp Pasta,main,"pasta, shrimp, butter, garlic powder, salt, pepper",2,5,16,"C
 Beef Rice Bowl,main,"ground beef, rice, salt, pepper, garlic powder",2,4.4,20,Cook beef with seasonings. Serve over cooked rice.
 Lemon Chicken Pasta,main,"pasta, chicken, lemon, butter, salt, pepper",2,4.5,22,"Cook pasta and chicken. Mix with butter, lemon, salt, and pepper. Serve warm."
 Chocolate Chip Muffins,dessert,"flour, sugar, chocolate chips, butter, egg, milk, salt",3,3.9,20,Mix all ingredients. Spoon into muffin tins. Bake at 350°F for 18-20 minutes. Serve warm.
+
